@@ -57,6 +57,10 @@
         margin-top: 8px !important;
     }
 
+    #slider .text-content {
+        display: none;
+    }
+
     #header {
         overflow: hidden;
     }
